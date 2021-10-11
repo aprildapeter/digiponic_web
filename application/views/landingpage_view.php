@@ -131,6 +131,92 @@
           </p>
           <h2 class="title-text">Spesialisasi Kami</h2>
         </div>
+
+        <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/web.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                        </p>
+                    </div>
+                    <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                        Website menjadi garda terdepan sebuah perusahaan. 
+                        Dengan tenaga ahli yang ada,
+                        kami siap mengambangkan website yang lebih interaktif 
+                        dan membantu pengambangan bisnis Anda.
+                        </p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/mobile.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Mobile Apps Development</strong>
+                        </p>
+                      </div>
+                      <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                      </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/software.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                        </p>
+                    </div>
+                    <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/it.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">IT Konsultasi</strong>
+                        </p>
+                      </div>
+                      <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                      </div>
+                  </div>
+                </div>
+              </div>
+            </div>
         <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
         <div class="me-md-3   text-start text-white overflow-hidden">
         <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
@@ -156,7 +242,8 @@
             </div>
             </div>
         </div> -->
-        <div class="d-flex flex-wrap">
+
+        <!-- <div class="d-flex flex-wrap">
           <div class="mx-auto card-item position-relative">
             <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
               <h2 class="price-title"> <img src="<?php echo base_url(); ?>assets/image/web.svg" alt=""> Web Development</h2>
@@ -206,7 +293,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </div>
@@ -224,6 +311,78 @@
           </p>
           <h2 class="title-text">Portofolio Kami</h2>
         </div>
+
+        <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+
+                    <div class="card-body">
+                      <div class="d-flex justify-content-between align-items-center">
+                        <p class="caption-text fw-bold">Fashion Landing page</p>
+                        <p class="caption-text-2">Lihat Detail</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+
+                    <div class="card-body">
+                      <div class="d-flex justify-content-between align-items-center">
+                        <p class="caption-text fw-bold">Fashion Landing page</p>
+                        <p class="caption-text-2">Lihat Detail</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+
+                    <div class="card-body">
+                      <div class="d-flex justify-content-between align-items-center">
+                        <p class="caption-text fw-bold">Fashion Landing page</p>
+                        <p class="caption-text-2">Lihat Detail</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                <div class="col">
+                  <div class="card shadow-sm">
+                   <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-center">
+                      <p class="caption-text fw-bold">Fashion Landing page</p>
+                      <p class="caption-text-2">Lihat Detail</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="d-flex justify-content-center align-items-center pt-5">
+        <div class="btn-group">
+            <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
+            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+            </button>
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next" >
+              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
+            </button>
+        </div>
+      </div>
+
         <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
                 <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5  text-start text-white overflow-hidden">
                     <div class="d-flex flex-column position-relative overflow-hidden "> 
@@ -256,7 +415,7 @@
                 </div>
             </div> -->
 
-        <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+        <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
           <div class="me-md-3   text-start text-white overflow-hidden mb-5">
             <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
               <img src="<?php echo base_url(); ?>assets/image/portofolio.svg" class="" alt="...">
@@ -312,11 +471,11 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="d-grid gap-2 col-2 mx-auto pt-3">
+        <!-- <div class="d-grid gap-2 col-2 mx-auto pt-3">
           <button class="btn btn-fill" type="button">Semua Portofolio</button>
-        </div>
+        </div> -->
 
       </div>
     </div>
@@ -527,14 +686,38 @@
             </div>
             </div> -->
 
+            
+            
+
         <div id="carouselExampleControls1" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-                <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-                  <div class="me-md-3 p-2  text-start text-white overflow-hidden">
-                    <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                      <div class="d-flex text-muted pt-3">
+            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                          Malang
+                        </p>
+                    </div>
+                    <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
                         <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
                         <p class="pb-3 mb-0 small lh-sm price-duration">
                           <strong class="d-block price-title">Web Development</strong>
@@ -549,35 +732,38 @@
                         </p>
 
                       </div>
-                    </div>
-                  </div>
-                  <div class=" me-md-3 p-2  text-start overflow-hidden">
-                    <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                      <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                          Malang
-                        </p>
-                      </div>
-                      <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Digiponic memberikan gambaran kepada kami tentang apa yang terjadi di lapangan,
-                          tidak hanya dalam bidang keilmuan saja. Kami juga mendapatkan contoh-contoh
-                          studi kasus yang sudah diimplementasikan tak hanya di instansi pemerintahan tapi juga instansi swasta
-                        </p>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
             </div>
+            </div>
             <div class="carousel-item">
-              <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-                <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-                  <div class="me-md-3 p-2  text-start text-white overflow-hidden">
-                    <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                      <div class="d-flex text-muted pt-3">
+            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                          Malang
+                        </p>
+                    </div>
+                    <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
                         <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
                         <p class="pb-3 mb-0 small lh-sm price-duration">
                           <strong class="d-block price-title">Web Development</strong>
@@ -592,35 +778,38 @@
                         </p>
 
                       </div>
-                    </div>
-                  </div>
-                  <div class=" me-md-3  p-2 text-start overflow-hidden">
-                    <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                      <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                          Malang
-                        </p>
-                      </div>
-                      <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Digiponic memberikan gambaran kepada kami tentang apa yang terjadi di lapangan,
-                          tidak hanya dalam bidang keilmuan saja. Kami juga mendapatkan contoh-contoh
-                          studi kasus yang sudah diimplementasikan tak hanya di instansi pemerintahan tapi juga instansi swasta
-                        </p>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
             </div>
+            </div>
             <div class="carousel-item">
-              <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-                <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-                  <div class="me-md-3 p-2  text-start text-white overflow-hidden">
-                    <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                      <div class="d-flex text-muted pt-3">
+            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                          Malang
+                        </p>
+                    </div>
+                    <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex text-muted pt-3">
                         <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
                         <p class="pb-3 mb-0 small lh-sm price-duration">
                           <strong class="d-block price-title">Web Development</strong>
@@ -635,28 +824,10 @@
                         </p>
 
                       </div>
-                    </div>
-                  </div>
-                  <div class=" me-md-3 p-2 text-start overflow-hidden">
-                    <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                      <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                          Malang
-                        </p>
-                      </div>
-                      <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Digiponic memberikan gambaran kepada kami tentang apa yang terjadi di lapangan,
-                          tidak hanya dalam bidang keilmuan saja. Kami juga mendapatkan contoh-contoh
-                          studi kasus yang sudah diimplementasikan tak hanya di instansi pemerintahan tapi juga instansi swasta
-                        </p>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
+            </div>
             </div>
           </div>
 

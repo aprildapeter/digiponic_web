@@ -440,14 +440,14 @@
 }
 
 #portofolio .content-3-7 .caption-text {
-    font: 500 18px/1.5rem Poppins, sans-serif;
+    font: 500 12px/1.5rem Poppins, sans-serif;
     color: #22343d;
     margin-top: 10px;
     margin-bottom: 0;
 }
 
 #portofolio .content-3-7 .caption-text-2 {
-    font: 400 18px/1.5rem Poppins, sans-serif;
+    font: 400 12px/1.5rem Poppins, sans-serif;
     letter-spacing: 0.025em;
     margin-top: 10px;
     color: #49ad09;
@@ -455,7 +455,7 @@
 }
 
 #portofolio .content-3-7 .caption-text-2:hover {
-    font: 600 20px/1.5rem Poppins, sans-serif;
+    font: 600 14px/1.5rem Poppins, sans-serif;
     letter-spacing: 0.025em;
     margin-top: 10px;
     color: #648c0b;
