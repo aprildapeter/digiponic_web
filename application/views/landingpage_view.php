@@ -784,10 +784,10 @@
           <a href="#" class="twitter">
             <img src="<?php echo base_url(); ?>assets/image/Footer/Foot01.svg" />
           </a>
-          <a href="#" class="facebook">
+          <a href="https://www.facebook.com/digiponic.haloteach" class="facebook" target=”_blank”>
             <img src="<?php echo base_url(); ?>assets/image/Footer/Foot02.svg" />
           </a>
-          <a href="#" class="instagram">
+          <a href="https://www.instagram.com/digiponic.co.id/" class="instagram" target=”_blank”>
             <img src="<?php echo base_url(); ?>assets/image/Footer/Foot03.svg" />
           </a>
         </div>
