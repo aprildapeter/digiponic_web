@@ -264,6 +264,19 @@
     transition: 0.4s;
 }
 
+#spesial .content-3-7 .card {
+    transition: 0.4s;
+    top: 0px;
+    left: 0px;
+    padding: 1rem 0;
+}
+
+#spesial .content-3-7 .card:hover {
+    top: -3px;
+    left: -3px;
+    transition: 0.4s;
+}
+
 #spesial .content-3-7 .card-item-outline {
     border: 1px solid #e5ebf9;
     padding: 2rem 2.75rem;
@@ -439,14 +452,14 @@
     color: #2e3a53;
 }
 
-#portofolio .content-3-7 .caption-text {
-    font: 500 12px/1.5rem Poppins, sans-serif;
+#portofolio .content-3-7 .caption-text-3 {
+    font: 500 16px/1.5rem Poppins, sans-serif;
     color: #22343d;
     margin-top: 10px;
     margin-bottom: 0;
 }
 
-#portofolio .content-3-7 .caption-text-2 {
+#portofolio .content-3-7 .caption-text-4 {
     font: 400 12px/1.5rem Poppins, sans-serif;
     letter-spacing: 0.025em;
     margin-top: 10px;
@@ -454,7 +467,7 @@
     margin-bottom: 0;
 }
 
-#portofolio .content-3-7 .caption-text-2:hover {
+#portofolio .content-3-7 .caption-text-4:hover {
     font: 600 14px/1.5rem Poppins, sans-serif;
     letter-spacing: 0.025em;
     margin-top: 10px;
@@ -473,6 +486,19 @@
 }
 
 #portofolio .content-3-7 .card-item:hover {
+    top: -3px;
+    left: -3px;
+    transition: 0.4s;
+}
+
+#portofolio .content-3-7 .card {
+    transition: 0.4s;
+    top: 0px;
+    left: 0px;
+    padding: 1rem 0;
+}
+
+#portofolio .content-3-7 .card:hover {
     top: -3px;
     left: -3px;
     transition: 0.4s;

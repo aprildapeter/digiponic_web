@@ -315,15 +315,15 @@
         <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-1">
                 <div class="col">
                   <div class="card shadow-sm">
                     <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
 
                     <div class="card-body">
                       <div class="d-flex justify-content-between align-items-center">
-                        <p class="caption-text fw-bold">Fashion Landing page</p>
-                        <p class="caption-text-2">Lihat Detail</p>
+                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                        <p class="caption-text-4 text-end">Lihat Detail</p>
                       </div>
                     </div>
                   </div>
@@ -334,8 +334,8 @@
 
                     <div class="card-body">
                       <div class="d-flex justify-content-between align-items-center">
-                        <p class="caption-text fw-bold">Fashion Landing page</p>
-                        <p class="caption-text-2">Lihat Detail</p>
+                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                        <p class="caption-text-4 text-end">Lihat Detail</p>
                       </div>
                     </div>
                   </div>
@@ -346,8 +346,8 @@
 
                     <div class="card-body">
                       <div class="d-flex justify-content-between align-items-center">
-                        <p class="caption-text fw-bold">Fashion Landing page</p>
-                        <p class="caption-text-2">Lihat Detail</p>
+                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                        <p class="caption-text-4 text-end">Lihat Detail</p>
                       </div>
                     </div>
                   </div>
@@ -362,8 +362,8 @@
 
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                      <p class="caption-text fw-bold">Fashion Landing page</p>
-                      <p class="caption-text-2">Lihat Detail</p>
+                      <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                      <p class="caption-text-4 text-end">Lihat Detail</p>
                     </div>
                   </div>
                 </div>
@@ -374,10 +374,10 @@
       </div>
       <div class="d-flex justify-content-center align-items-center pt-5">
         <div class="btn-group">
-            <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
+            <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
             <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
             </button>
-            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next" >
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev" >
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
             </button>
         </div>
