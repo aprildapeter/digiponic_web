@@ -11,6 +11,9 @@
   <link rel="stylesheet" href="<?php echo base_url(); ?>assets/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="<?php echo base_url(); ?>assets/dist/css/custom.css" />
 
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+
+
   <!-- Font -->
   <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -312,61 +315,107 @@
           <h2 class="title-text">Portofolio Kami</h2>
         </div>
 
+
+        
         <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-1">
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
-
-                    <div class="card-body">
-                      <div class="d-flex justify-content-between align-items-center">
-                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                        <p class="caption-text-4 text-end">Lihat Detail</p>
+                  <div class="col" >
+                    <div class="card shadow-sm">
+                      <div class="front">
+                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
+                              ke seluruh indonesia dengan cepat dan mudah, 
+                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
+                        </div>
+                      </div>
+                      <div class="back">
+                        <div class="back-content middle">
+                          <p class="caption-text-2 fw-bold">Fashion Landing page</p>
+                          <div class="sm">
+                            <a href="https://digiponic.co.id/"><i class="fas fa-globe"></i></a>
+                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
-
-                    <div class="card-body">
-                      <div class="d-flex justify-content-between align-items-center">
-                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                        <p class="caption-text-4 text-end">Lihat Detail</p>
+                  <div class="col">
+                    <div class="card shadow-sm">
+                      <div class="front">
+                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
+                              ke seluruh indonesia dengan cepat dan mudah, 
+                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
+                        </div>
+                      </div>
+                      <div class="back">
+                        <div class="back-content middle">
+                        <p class="caption-text-2 fw-bold">Fashion Landing page</p>
+                          <div class="sm">
+                            <a href="#"><i class="fas fa-globe"></i></a>
+                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
-
-                    <div class="card-body">
-                      <div class="d-flex justify-content-between align-items-center">
-                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                        <p class="caption-text-4 text-end">Lihat Detail</p>
+                  <div class="col">
+                    <div class="card shadow-sm">
+                      <div class="front">
+                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
+                              ke seluruh indonesia dengan cepat dan mudah, 
+                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
+                        </div>
                       </div>
+                      <div class="back">
+                        <div class="back-content middle">
+                        <p class="caption-text-2 fw-bold">Fashion Landing page</p>
+                          <div class="sm">
+                            <a href="#"><i class="fas fa-globe"></i></a>
+                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          </div>
+                        </div>
+                      </div>
+
                     </div>
                   </div>
-                </div>
+
               </div>
             </div>
             <div class="carousel-item">
-              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                <div class="col">
-                  <div class="card shadow-sm">
-                   <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5">
+              <div class="col">
+                    <div class="card shadow-sm">
+                      <div class="front">
+                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
+                              ke seluruh indonesia dengan cepat dan mudah, 
+                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
+                        </div>
+                      </div>
+                      <div class="back">
+                        <div class="back-content middle">
+                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                          <div class="sm">
+                            <a href="#"><i class="fas fa-globe"></i></a>
+                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          </div>
+                        </div>
+                      </div>
 
-                  <div class="card-body">
-                    <div class="d-flex justify-content-between align-items-center">
-                      <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                      <p class="caption-text-4 text-end">Lihat Detail</p>
                     </div>
                   </div>
-                </div>
               </div>
             </div>
           </div>
@@ -619,14 +668,16 @@
             </div>
           </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-          <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-          <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
+        <div class="d-flex justify-content-center align-items-center pt-5">
+        <div class="btn-group">
+            <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+            </button>
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev" >
+              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
+            </button>
+        </div>
+      </div>
 
       </div>
     </div>
@@ -832,14 +883,16 @@
           </div>
 
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="prev">
-          <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="next">
-          <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
+        <div class="d-flex justify-content-center align-items-center pt-5">
+        <div class="btn-group">
+            <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="next">
+            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+            </button>
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="prev" >
+              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
+            </button>
+        </div>
+      </div>
 
       </div>
     </div>

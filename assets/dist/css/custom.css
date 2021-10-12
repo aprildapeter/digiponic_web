@@ -452,6 +452,13 @@
     color: #2e3a53;
 }
 
+#portofolio .content-3-7 .caption-text-2 {
+    font: 500 24px/1.5rem Poppins, sans-serif;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
 #portofolio .content-3-7 .caption-text-3 {
     font: 500 16px/1.5rem Poppins, sans-serif;
     color: #22343d;
@@ -463,11 +470,12 @@
     font: 400 12px/1.5rem Poppins, sans-serif;
     letter-spacing: 0.025em;
     margin-top: 10px;
-    color: #49ad09;
+    color: #787878;
     margin-bottom: 0;
 }
 
-#portofolio .content-3-7 .caption-text-4:hover {
+
+/* #portofolio .content-3-7 .caption-text-4:hover {
     font: 600 14px/1.5rem Poppins, sans-serif;
     letter-spacing: 0.025em;
     margin-top: 10px;
@@ -476,7 +484,7 @@
     margin-bottom: 0;
     top: -3px;
     left: -3px;
-}
+} */
 
 #portofolio .content-3-7 .card-item {
     transition: 0.4s;
@@ -491,18 +499,139 @@
     transition: 0.4s;
 }
 
-#portofolio .content-3-7 .card {
+
+/* #portofolio .content-3-7 .card {
     transition: 0.4s;
     top: 0px;
     left: 0px;
-    padding: 1rem 0;
+} */
+
+#portofolio .content-3-7 .middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-#portofolio .content-3-7 .card:hover {
-    top: -3px;
-    left: -3px;
-    transition: 0.4s;
+#portofolio .content-3-7 .card {
+    cursor: pointer;
+    width: 100%;
+    height: 450px;
+    border: none !important;
+    box-shadow: none !important;
 }
+
+#portofolio .content-3-7 .front,
+#portofolio .content-3-7 .back {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    backface-visibility: hidden;
+    position: absolute;
+    transition: transform 0.6s linear;
+}
+
+
+/* #portofolio .content-3-7 .front img {
+    height: 100%;
+} */
+
+#portofolio .content-3-7 .front {
+    transform: perspective(600px) rotateX(0deg);
+    border: 1px solid rgba(109, 109, 109, 0.125);
+    border-radius: 0.25rem;
+}
+
+#portofolio .content-3-7 .back {
+    border-radius: none;
+    border: 1px solid #f8485e;
+    background: #f8485e;
+    transform: perspective(600px) rotateX(180deg);
+}
+
+#portofolio .content-3-7 .back-content {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+#portofolio .content-3-7 .sm {
+    margin: 20px 0;
+}
+
+#portofolio .content-3-7 .sm a {
+    display: inline-flex;
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 30px;
+    transition: 0.4s;
+    border: 1px solid #fff;
+    border-color: #fff;
+    border-radius: 50%;
+    text-decoration: none;
+}
+
+#portofolio .content-3-7 .sm a:hover {
+    background: #2c3e50;
+    border: none;
+    color: white;
+}
+
+#portofolio .content-3-7 .card:hover>.front {
+    transform: perspective(600px) rotateX(-180deg);
+}
+
+#portofolio .content-3-7 .card:hover>.back {
+    transform: perspective(600px) rotateX(0deg);
+}
+
+
+/* #portofolio .content-3-7 .card::before,
+.card::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    transition: all 0.4s;
+} */
+
+
+/* #portofolio .content-3-7 .card::after {
+    background: #f8485e;
+    transform-origin: right bottom;
+    transform: translate(10% 10%) scale(0.3);
+    border-radius: 50%;
+    transition: all 0.4s;
+} */
+
+
+/* #portofolio .content-3-7 .card:hover::after {
+    display: flex;
+    justify-content: center;
+    content: "";
+    background: #f8485e;
+    transform-origin: right bottom;
+    transform: translate(10% 10%) scale(0.3);
+    border-radius: 0%;
+    transition: all 0.4s;
+} */
+
+
+/* 
+#portofolio .content-3-7 .card:hover::before {
+    display: flex;
+    justify-content: center;
+    background: #f8485e;
+    transform-origin: right bottom;
+    transform: translate(10% 10%) scale(0.3);
+    border-radius: 0%;
+    transition: all 0.4s;
+} */
 
 #portofolio .content-3-7 .card-item-outline {
     border: 1px solid #e5ebf9;
@@ -583,6 +712,12 @@
 
 #portofolio .content-3-7 .btn-fill:hover {
     background: #388509;
+}
+
+@media (max-width: 576px) {
+    #portofolio .content-3-7 .card {
+        height: 500px;
+    }
 }
 
 @media (min-width: 576px) {

@@ -4597,6 +4597,7 @@ fieldset:disabled .btn {
     position: relative;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
     min-width: 0;
     word-wrap: break-word;
     background-color: #fff;
