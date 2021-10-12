@@ -136,90 +136,90 @@
         </div>
 
         <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/web.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                        </p>
-                    </div>
-                    <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                        Website menjadi garda terdepan sebuah perusahaan. 
-                        Dengan tenaga ahli yang ada,
-                        kami siap mengambangkan website yang lebih interaktif 
-                        dan membantu pengambangan bisnis Anda.
-                        </p>
-
-                    </div>
-                  </div>
+          <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+              <div class="card-body">
+                <div class="d-flex text-muted pt-3">
+                  <img src="<?php echo base_url(); ?>assets/image/web.svg" alt="" width="48px" height="48px" class="p-1">
+                  <p class="pb-3 mb-0 small lh-sm price-duration">
+                    <strong class="d-block price-title">Web Development</strong>
+                  </p>
                 </div>
-              </div>
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/mobile.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Mobile Apps Development</strong>
-                        </p>
-                      </div>
-                      <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                          bisa langsung melakukan penetration test.
-                          Ini merupakan pengalaman baru bagi kami.
-                        </p>
+                <div class="price-list">
+                  <p class="d-flex align-items-center check">
+                    Website menjadi garda terdepan sebuah perusahaan.
+                    Dengan tenaga ahli yang ada,
+                    kami siap mengambangkan website yang lebih interaktif
+                    dan membantu pengambangan bisnis Anda.
+                  </p>
 
-                      </div>
-                  </div>
                 </div>
               </div>
             </div>
-            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/software.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                        </p>
-                    </div>
-                    <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                          bisa langsung melakukan penetration test.
-                          Ini merupakan pengalaman baru bagi kami.
-                        </p>
-
-                    </div>
-                  </div>
+          </div>
+          <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+              <div class="card-body">
+                <div class="d-flex text-muted pt-3">
+                  <img src="<?php echo base_url(); ?>assets/image/mobile.svg" alt="" width="48px" height="48px" class="p-1">
+                  <p class="pb-3 mb-0 small lh-sm price-duration">
+                    <strong class="d-block price-title">Mobile Apps Development</strong>
+                  </p>
                 </div>
-              </div>
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/it.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">IT Konsultasi</strong>
-                        </p>
-                      </div>
-                      <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                          bisa langsung melakukan penetration test.
-                          Ini merupakan pengalaman baru bagi kami.
-                        </p>
+                <div class="price-list">
+                  <p class="d-flex align-items-center check">
+                    Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                    bisa langsung melakukan penetration test.
+                    Ini merupakan pengalaman baru bagi kami.
+                  </p>
 
-                      </div>
-                  </div>
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+        <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+          <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+              <div class="card-body">
+                <div class="d-flex text-muted pt-3">
+                  <img src="<?php echo base_url(); ?>assets/image/software.svg" alt="" width="48px" height="48px" class="p-1">
+                  <p class="pb-3 mb-0 small lh-sm price-duration">
+                    <strong class="d-block price-title">Web Development</strong>
+                  </p>
+                </div>
+                <div class="price-list">
+                  <p class="d-flex align-items-center check">
+                    Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                    bisa langsung melakukan penetration test.
+                    Ini merupakan pengalaman baru bagi kami.
+                  </p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+              <div class="card-body">
+                <div class="d-flex text-muted pt-3">
+                  <img src="<?php echo base_url(); ?>assets/image/it.svg" alt="" width="48px" height="48px" class="p-1">
+                  <p class="pb-3 mb-0 small lh-sm price-duration">
+                    <strong class="d-block price-title">IT Konsultasi</strong>
+                  </p>
+                </div>
+                <div class="price-list">
+                  <p class="d-flex align-items-center check">
+                    Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                    bisa langsung melakukan penetration test.
+                    Ini merupakan pengalaman baru bagi kami.
+                  </p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
         <div class="me-md-3   text-start text-white overflow-hidden">
         <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
@@ -420,17 +420,16 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="d-flex justify-content-center align-items-center pt-5">
-        <div class="btn-group">
+        <div class="d-flex justify-content-center align-items-center pt-5">
+          <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
-            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
             </button>
-            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev" >
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
             </button>
+          </div>
         </div>
-      </div>
 
         <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
                 <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5  text-start text-white overflow-hidden">
@@ -630,7 +629,7 @@
                       </div>
                       <h2 class="fw-bold caption-text-2 text-center pt-3">Yohanes Dwi Listio</h2>
 
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Backebd Developer</h2>
+                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Backend Developer</h2>
                     </div>
                   </div>
                 </div>
@@ -646,7 +645,7 @@
                       </div>
                       <h2 class="fw-bold caption-text-2 text-center pt-3">Bimo Prakoso</h2>
 
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Backebd Developer</h2>
+                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Backend Developer</h2>
                     </div>
                   </div>
                 </div>
@@ -737,38 +736,17 @@
             </div>
             </div> -->
 
-            
-            
+
+
 
         <div id="carouselExampleControls1" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                          Malang
-                        </p>
-                    </div>
-                    <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                          bisa langsung melakukan penetration test.
-                          Ini merupakan pengalaman baru bagi kami.
-                        </p>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
+              <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+                <div class="col">
+                  <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-body">
+                      <div class="d-flex text-muted pt-3">
                         <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
                         <p class="pb-3 mb-0 small lh-sm price-duration">
                           <strong class="d-block price-title">Web Development</strong>
@@ -783,38 +761,38 @@
                         </p>
 
                       </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-body">
+                      <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                          Malang
+                        </p>
+                      </div>
+                      <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
             </div>
             <div class="carousel-item">
-            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                          Malang
-                        </p>
-                    </div>
-                    <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                          bisa langsung melakukan penetration test.
-                          Ini merupakan pengalaman baru bagi kami.
-                        </p>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
+              <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+                <div class="col">
+                  <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-body">
+                      <div class="d-flex text-muted pt-3">
                         <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
                         <p class="pb-3 mb-0 small lh-sm price-duration">
                           <strong class="d-block price-title">Web Development</strong>
@@ -829,38 +807,38 @@
                         </p>
 
                       </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-body">
+                      <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                          Malang
+                        </p>
+                      </div>
+                      <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
             </div>
             <div class="carousel-item">
-            <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                          <strong class="d-block price-title">Web Development</strong>
-                          Malang
-                        </p>
-                    </div>
-                    <div class="price-list">
-                        <p class="d-flex align-items-center check">
-                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                          bisa langsung melakukan penetration test.
-                          Ini merupakan pengalaman baru bagi kami.
-                        </p>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                  <div class="card-body">
-                    <div class="d-flex text-muted pt-3">
+              <div class="d-flex justify-content-center row row-cols-1 row-cols-md-3 mb-3">
+                <div class="col">
+                  <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-body">
+                      <div class="d-flex text-muted pt-3">
                         <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
                         <p class="pb-3 mb-0 small lh-sm price-duration">
                           <strong class="d-block price-title">Web Development</strong>
@@ -875,10 +853,31 @@
                         </p>
 
                       </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-body">
+                      <div class="d-flex text-muted pt-3">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="" width="48px" height="48px" class="p-1">
+                        <p class="pb-3 mb-0 small lh-sm price-duration">
+                          <strong class="d-block price-title">Web Development</strong>
+                          Malang
+                        </p>
+                      </div>
+                      <div class="price-list">
+                        <p class="d-flex align-items-center check">
+                          Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
+                          bisa langsung melakukan penetration test.
+                          Ini merupakan pengalaman baru bagi kami.
+                        </p>
+
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
             </div>
           </div>
 
@@ -930,7 +929,7 @@
                     <div class="d-flex">
                       <img src="<?php echo base_url(); ?>assets/image/hubungi/tlpn.svg" class="pe-2">
                       <p class="mt-2 mb-0 small lh-sm price-duration">
-                        021 6010948/ 6269552/ 62203958
+                        081357853085
                       </p>
                     </div>
                   </div>
@@ -940,21 +939,24 @@
                     <div class="d-flex">
                       <img src="<?php echo base_url(); ?>assets/image/hubungi/email.svg" class="pe-2 ">
                       <p class="mt-2 mb-0 small lh-sm price-duration">
-                        MajuJaya@gmail.com
+                        digiponic@gmail.com
                       </p>
                     </div>
                   </div>
                 </div>
-                <div class="wa">
-                  <div class="d-inline pe-2">
-                    <div class="d-flex">
-                      <img src="<?php echo base_url(); ?>assets/image/hubungi/wa.svg" class="pe-2">
-                      <p class="mt-2 mb-0 small lh-sm price-duration">
-                        085282832341
-                      </p>
+                <a href="https://wa.me/6281357853085" target="_blank" style="text-decoration: none;color:black">
+                  <div class="wa">
+                    <div class="d-inline pe-2">
+                      <div class="d-flex">
+                        <img src="<?php echo base_url(); ?>assets/image/hubungi/wa.svg" class="pe-2">
+                        <p class="mt-2 mb-0 small lh-sm price-duration">
+                          081357853085
+                        </p>
+                      </div>
                     </div>
                   </div>
-                </div>
+                </a>
+
               </div>
             </div>
             <div class="col">
