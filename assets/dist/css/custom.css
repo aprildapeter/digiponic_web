@@ -519,6 +519,27 @@
     height: 450px;
     border: none !important;
     box-shadow: none !important;
+    z-index: 1;
+    overflow: hidden;
+}
+
+#portofolio .content-3-7 .card:before {
+    content: "";
+    position: absolute;
+    z-index: 2;
+    top: -16px;
+    right: -16px;
+    background: #00838d;
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    transform: scale(1);
+    transform-origin: 50% 50%;
+    transition: transform 0.25s ease-out;
+}
+
+#portofolio .content-3-7 .card:hover:before {
+    transform: scale(45);
 }
 
 #portofolio .content-3-7 .front,
@@ -537,7 +558,7 @@
 } */
 
 #portofolio .content-3-7 .front {
-    transform: perspective(600px) rotateX(0deg);
+    transform: perspective(600px) rotateY(0deg);
     border: 1px solid rgba(109, 109, 109, 0.125);
     border-radius: 0.25rem;
 }
@@ -545,14 +566,19 @@
 #portofolio .content-3-7 .back {
     border-radius: none;
     border: 1px solid #f8485e;
+    border-radius: 4px;
+    height: 100%;
     background: #f8485e;
-    transform: perspective(600px) rotateX(180deg);
+    transform: perspective(600px) rotateY(0deg);
+    /* visibility: hidden; */
 }
 
 #portofolio .content-3-7 .back-content {
     color: #fff;
     text-align: center;
     width: 100%;
+    z-index: 3;
+    /* visibility: hidden; */
 }
 
 #portofolio .content-3-7 .sm {
@@ -582,11 +608,18 @@
 
 #portofolio .content-3-7 .card:hover>.front {
     transform: perspective(600px) rotateX(-180deg);
+    transform: translate(10% 10%) scale(0.3);
+    transition: all 0.4s;
 }
 
 #portofolio .content-3-7 .card:hover>.back {
-    transform: perspective(600px) rotateX(0deg);
+    transform: perspective(600px) rotateY(0deg);
+    visibility: visible;
+    transition: all 0.4s;
 }
+
+
+/* dakdsdkjshk */
 
 
 /* #portofolio .content-3-7 .card::before,
