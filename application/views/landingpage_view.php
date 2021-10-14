@@ -115,7 +115,7 @@
           </div>
           <!-- Right Column -->
           <div class="right-column text-center d-flex justify-content-center pe-0">
-            <img id="img-fluid" class="h-auto mw-100" src="<?php echo base_url(); ?>assets/image/Hero.svg" alt="" />
+            <img id="img-fluid" class="h-auto mw-100" src="<?php echo base_url(); ?>assets/image/foto/digiponic.png" alt="" />
           </div>
         </div>
       </div>
@@ -569,7 +569,7 @@
           </div>
           <!-- Right Column -->
           <div class="right-column text-center d-flex justify-content-center pe-0">
-            <img id="img-fluid" class="h-auto mw-100 d-none d-sm-block" src="<?php echo base_url(); ?>assets/image/Tentang.svg" alt="" />
+            <img id="img-fluid" class="h-auto mw-100 d-none d-sm-block" src="<?php echo base_url(); ?>assets/image/foto/digiponic2.png" alt="" />
           </div>
         </div>
       </div>
