@@ -315,7 +315,6 @@
           <h2 class="title-text">Portofolio Kami</h2>
         </div>
 
-
         
         <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
@@ -406,7 +405,7 @@
                       </div>
                       <div class="back">
                         <div class="back-content middle">
-                        <p class="caption-text-3 fw-bold">Fashion Landing page</p>
+                        <p class="caption-text-2 fw-bold">Fashion Landing page</p>
                           <div class="sm">
                             <a href="#"><i class="fas fa-globe"></i></a>
                             <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
@@ -421,15 +420,15 @@
           </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-5">
-          <div class="btn-group">
+        <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
-              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
             </button>
-            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev" >
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
             </button>
-          </div>
         </div>
+      </div>
 
         <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
                 <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5  text-start text-white overflow-hidden">
