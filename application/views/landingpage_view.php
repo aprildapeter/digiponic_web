@@ -315,120 +315,104 @@
           <h2 class="title-text">Portofolio Kami</h2>
         </div>
 
-        
+
         <div id="carouselExampleControls2" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-1">
-                  <div class="col" >
-                    <div class="card shadow-sm">
-                      <div class="front">
-                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
-                              ke seluruh indonesia dengan cepat dan mudah, 
-                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
-                        </div>
-                      </div>
-                      <div class="back">
-                        <div class="back-content middle">
-                          <p class="caption-text-2 fw-bold">Fashion Landing page</p>
-                          <div class="sm">
-                            <a href="https://digiponic.co.id/"><i class="fas fa-globe"></i></a>
-                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
-                          </div>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div class="front">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/halokes.png" class="card-img-top" alt="...">
+                    </div>
+                    <div class="back">
+                      <div class="back-content middle">
+                        <div class="sm">
+                          <a href="https://digiponic.co.id/"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div class="col">
-                    <div class="card shadow-sm">
-                      <div class="front">
-                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
-                              ke seluruh indonesia dengan cepat dan mudah, 
-                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
-                        </div>
-                      </div>
-                      <div class="back">
-                        <div class="back-content middle">
-                        <p class="caption-text-2 fw-bold">Fashion Landing page</p>
-                          <div class="sm">
-                            <a href="#"><i class="fas fa-globe"></i></a>
-                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
-                          </div>
+                </div>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div class="front">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/halomeet.png" class="card-img-top" alt="...">
+                    </div>
+                    <div class="back">
+                      <div class="back-content middle">
+                        <div class="sm">
+                          <a href="http://halomeet.halokes.co.id/"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div class="col">
-                    <div class="card shadow-sm">
-                      <div class="front">
-                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
-                              ke seluruh indonesia dengan cepat dan mudah, 
-                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
+                </div>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div class="front">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/haloteach.png" class="card-img-top" alt="...">
+                    </div>
+                    <div class="back">
+                      <div class="back-content middle">
+                        <div class="sm">
+                          <a href="http://haloteach.halokes.co.id/"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
-                      <div class="back">
-                        <div class="back-content middle">
-                        <p class="caption-text-2 fw-bold">Fashion Landing page</p>
-                          <div class="sm">
-                            <a href="#"><i class="fas fa-globe"></i></a>
-                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
-                          </div>
-                        </div>
-                      </div>
-
                     </div>
                   </div>
-
+                </div>
               </div>
             </div>
             <div class="carousel-item">
               <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5">
-              <div class="col">
-                    <div class="card shadow-sm">
-                      <div class="front">
-                        <img src="<?php echo base_url();?>assets/image/portofolio.svg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                          <p class="caption-text-3 fw-bold">Fashion Landing page</p>
-                          <p class="caption-text-4 text-start">Travel Agency Website adalah sebuah website untuk pemesanan travel 
-                              ke seluruh indonesia dengan cepat dan mudah, 
-                              dan membantu pelanggan pergi berlibur ke seluruh indonesia.</p>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div class="front">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/nitromax.png" class="card-img-top" alt="...">
+                    </div>
+                    <div class="back">
+                      <div class="back-content middle">
+                        <div class="sm">
+                          <a href="#"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
-                      <div class="back">
-                        <div class="back-content middle">
-                        <p class="caption-text-2 fw-bold">Fashion Landing page</p>
-                          <div class="sm">
-                            <a href="#"><i class="fas fa-globe"></i></a>
-                            <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
-                          </div>
-                        </div>
-                      </div>
-
                     </div>
                   </div>
+                </div>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div class="front">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/osac.png" class="card-img-top" alt="...">
+                    </div>
+                    <div class="back">
+                      <div class="back-content middle">
+                        <div class="sm">
+                          <a href="#"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-5">
-        <div class="btn-group">
+          <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
-            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
             </button>
-            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev" >
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
             </button>
+          </div>
         </div>
-      </div>
 
         <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
                 <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5  text-start text-white overflow-hidden">
@@ -598,7 +582,7 @@
                   <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/1.jpg" alt="Bootstrap" width="203" height="203" class="rounded-circle">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/1.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
                       </div>
                       <h2 class="fw-bold caption-text-2 text-center pt-3">Deni Dwi Handoko</h2>
 
@@ -624,7 +608,7 @@
                   <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/3.jpg" alt="Bootstrap" width="203" height="203" class="rounded-circle">
+                        <img src="<?php echo base_url(); ?>assets/image/tim/3.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
                       </div>
                       <h2 class="fw-bold caption-text-2 text-center pt-3">Yohanes Dwi Listio</h2>
 
@@ -640,7 +624,7 @@
                   <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
-                        <img src="<?= base_url(); ?>assets/image/tim/4.jpg" alt="Bootstrap" width="203" height="203" class="rounded-circle">
+                        <img src="<?= base_url(); ?>assets/image/tim/4.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
                       </div>
                       <h2 class="fw-bold caption-text-2 text-center pt-3">Bimo Prakoso</h2>
 
@@ -653,11 +637,23 @@
                   <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
-                        <img src="<?= base_url(); ?>assets/image/tim/5.jpg" alt="Bootstrap" width="203" height="203" class="rounded-circle">
+                        <img src="<?= base_url(); ?>assets/image/tim/5.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
                       </div>
                       <h2 class="fw-bold caption-text-2 text-center pt-3">Raham Sutan Iliyas</h2>
 
                       <h2 class="price-duration text-center pt-3" style="color: #8997b5">Frontend Developer</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
+                    <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
+                      <div class="d-flex justify-content-center">
+                        <img src="<?= base_url(); ?>assets/image/tim/6.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
+                      </div>
+                      <h2 class="fw-bold caption-text-2 text-center pt-3">Egata Arinda</h2>
+
+                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Digital Marketing</h2>
                     </div>
                   </div>
                 </div>
@@ -667,15 +663,15 @@
           </div>
         </div>
         <div class="d-flex justify-content-center align-items-center pt-5">
-        <div class="btn-group">
+          <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
             </button>
-            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev" >
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
             </button>
+          </div>
         </div>
-      </div>
 
       </div>
     </div>
@@ -882,15 +878,15 @@
 
         </div>
         <div class="d-flex justify-content-center align-items-center pt-5">
-        <div class="btn-group">
+          <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="next">
-            <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
+              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
             </button>
-            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="prev" >
+            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="prev">
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
             </button>
+          </div>
         </div>
-      </div>
 
       </div>
     </div>
