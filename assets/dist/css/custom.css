@@ -791,11 +791,11 @@
   background: #388509;
 }
 
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
   #portofolio .content-3-7 .card {
-    height: 500px;
+    height: 270px;
   }
-}
+} */
 
 @media (min-width: 576px) {
   #portofolio .content-3-7 .title-text {
@@ -804,12 +804,18 @@
   #portofolio .content-3-7 .card-item {
     padding: 1rem;
   }
+  #portofolio .content-3-7 .card {
+    height: 270px;
+  }
 }
 
 @media (min-width: 768px) {
   #portofolio .content-3-7 {
     padding-left: 3.5rem;
     padding-right: 3.5rem;
+  }
+  #portofolio .content-3-7 .card {
+    height: 340px;
   }
 }
 
