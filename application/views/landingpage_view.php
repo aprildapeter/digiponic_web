@@ -323,7 +323,7 @@
                 <div class="col">
                   <div class="card shadow-sm">
                     <div class="front">
-                      <img src="<?php echo base_url(); ?>assets/image/portofolio/halokes.png" class="card-img-top" alt="...">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/halokes.png" class="w-100 h-100" alt="...">
                     </div>
                     <div class="back">
                       <div class="back-content middle">
@@ -338,7 +338,7 @@
                 <div class="col">
                   <div class="card shadow-sm">
                     <div class="front">
-                      <img src="<?php echo base_url(); ?>assets/image/portofolio/halomeet.png" class="card-img-top" alt="...">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/halomeet.png" class="w-100 h-100" alt="...">
                     </div>
                     <div class="back">
                       <div class="back-content middle">
@@ -353,7 +353,7 @@
                 <div class="col">
                   <div class="card shadow-sm">
                     <div class="front">
-                      <img src="<?php echo base_url(); ?>assets/image/portofolio/haloteach.png" class="card-img-top" alt="...">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/haloteach.png" class="w-100 h-100" alt="...">
                     </div>
                     <div class="back">
                       <div class="back-content middle">
@@ -372,7 +372,7 @@
                 <div class="col">
                   <div class="card shadow-sm">
                     <div class="front">
-                      <img src="<?php echo base_url(); ?>assets/image/portofolio/nitromax.png" class="card-img-top" alt="...">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/nitromax.png" class="w-100 h-100" alt="...">
                     </div>
                     <div class="back">
                       <div class="back-content middle">
@@ -387,7 +387,7 @@
                 <div class="col">
                   <div class="card shadow-sm">
                     <div class="front">
-                      <img src="<?php echo base_url(); ?>assets/image/portofolio/osac.png" class="card-img-top" alt="...">
+                      <img src="<?php echo base_url(); ?>assets/image/portofolio/osac.png" class="w-100 h-100" alt="...">
                     </div>
                     <div class="back">
                       <div class="back-content middle">
@@ -579,7 +579,7 @@
             <div class="carousel-item active">
               <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
-                  <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
+                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
                         <img src="<?php echo base_url(); ?>assets/image/tim/1.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
@@ -592,7 +592,7 @@
                 </div>
 
                 <div class="col">
-                  <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
+                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
                         <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="Bootstrap" width="203" height="203" class="rounded-circle">
@@ -605,7 +605,7 @@
                 </div>
 
                 <div class="col">
-                  <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
+                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
                         <img src="<?php echo base_url(); ?>assets/image/tim/3.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
@@ -621,7 +621,7 @@
             <div class="carousel-item">
               <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
-                  <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
+                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
                         <img src="<?= base_url(); ?>assets/image/tim/4.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
@@ -634,7 +634,7 @@
                 </div>
 
                 <div class="col">
-                  <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
+                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
                         <img src="<?= base_url(); ?>assets/image/tim/5.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
@@ -646,7 +646,7 @@
                   </div>
                 </div>
                 <div class="col">
-                  <div class="card card-cover h-100 overflow-hidden text-white  rounded-5">
+                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
                     <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
                       <div class="d-flex justify-content-center">
                         <img src="<?= base_url(); ?>assets/image/tim/6.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
