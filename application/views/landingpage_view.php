@@ -344,7 +344,7 @@
                       <div class="back-content middle">
                         <div class="sm">
                           <a href="http://halomeet.halokes.co.id/"><i class="fas fa-globe"></i></a>
-                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          <a href="https://www.instagram.com/halokes.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
                     </div>
@@ -359,7 +359,7 @@
                       <div class="back-content middle">
                         <div class="sm">
                           <a href="http://haloteach.halokes.co.id/"><i class="fas fa-globe"></i></a>
-                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          <a href="https://www.instagram.com/haloteach.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
                     </div>
@@ -377,7 +377,7 @@
                     <div class="back">
                       <div class="back-content middle">
                         <div class="sm">
-                          <a href="#"><i class="fas fa-globe"></i></a>
+                          <a href="http://nitromax.digiponic.co.id/"><i class="fas fa-globe"></i></a>
                           <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
@@ -392,7 +392,7 @@
                     <div class="back">
                       <div class="back-content middle">
                         <div class="sm">
-                          <a href="#"><i class="fas fa-globe"></i></a>
+                          <a href="http://dev.digiponic.co.id/osac_sistema/"><i class="fas fa-globe"></i></a>
                           <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
@@ -537,16 +537,17 @@
               <h4 class="fw-bold">Misi</h4>
               <ol style="font-size:18px">
                 <li>
-                  <p class="text-caption">Mengembangkan solution digital untuk pelanggan dan masyarakat indonesia khususnya dan dunia pada umunya baik dari segi materi ataupun segi nilai manfaat.</p>
+                  <p class="text-caption">Mengembangkan solusi digital untuk pelanggan & masyarakat Indonesia khususnya dan dunia pada umumnya, baik dari segi materi ataupun segi nilai manfaat.
+                  </p>
                 </li>
                 <li>
-                  <p class="text-caption">Mengembangkan solution digital untuk pelanggan dan masyarakat indonesia khususnya dan dunia pada umunya baik dari segi materi ataupun segi nilai manfaat.</p>
+                  <p class="text-caption">Menjadikan Sumber Daya Manusia kreatif yang berintegritas tinggi sebagai sokoguru utama kesinambungan perusahaan secara jangka Panjang.</p>
                 </li>
                 <li>
-                  <p class="text-caption">Mengembangkan solution digital untuk pelanggan dan masyarakat indonesia khususnya dan dunia pada umunya baik dari segi materi ataupun segi nilai manfaat.</p>
+                  <p class="text-caption">Memastikan keseimbangan profit untuk keberlangsungan perusahaan dan pembiayaan riset teknologi untuk kompetisi global.</p>
                 </li>
                 <li>
-                  <p class="text-caption">Mengembangkan solution digital untuk pelanggan dan masyarakat indonesia khususnya dan dunia pada umunya baik dari segi materi ataupun segi nilai manfaat.</p>
+                  <p class="text-caption">Mengutamakan kerjasama dan kolaborasi dg berbagai individu insan teknologi kreatif dan berbagai institusi kelas dunia demi mewujudkan percepatan visi perusahaan.</p>
                 </li>
               </ol>
           </div>
