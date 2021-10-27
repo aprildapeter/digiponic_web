@@ -553,7 +553,7 @@
           </div>
           <!-- Right Column -->
           <div class="right-column text-center d-flex justify-content-center pe-0">
-            <img id="img-fluid" class="h-auto mw-100 d-none d-sm-block" src="<?php echo base_url(); ?>assets/image/foto/digiponic2.png" alt="" />
+            <img id="img-fluid" class="h-auto mw-100 d-none d-sm-block" src="<?php echo base_url(); ?>assets/image/foto/digiponic3.png" alt="" />
           </div>
         </div>
       </div>
