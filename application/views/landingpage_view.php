@@ -125,10 +125,10 @@
 
   <!-- Spesial -->
   <section class="h-100 w-100" style="box-sizing: border-box; background-color: #fff" id="spesial">
-    <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif">
-      <div class="container mx-auto">
+    <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif; padding-bottom: 3rem">
+      <div class="container mx-auto ">
 
-        <div class="d-flex flex-column text-center w-100" style="margin-bottom: 2.25rem">
+        <div class="d-flex flex-column text-center w-100 pt-2" style="margin-bottom: 2.25rem">
           <p class="caption-text mx-auto">
             Apa layanan yang kita lakukan?
           </p>
@@ -305,10 +305,10 @@
 
   <!-- Portofolio -->
   <section class="h-100 w-100" style="box-sizing: border-box; background-color: #fff" id="portofolio">
-    <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif; margin-bottom: 3rem;">
+    <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif; ">
       <div class="container mx-auto">
 
-        <div class="d-flex flex-column text-center w-100" style="margin-bottom: 2.25rem">
+        <div class="d-flex flex-column text-center w-100 pt-2" style="margin-bottom: 2.25rem">
           <p class="caption-text mx-auto">
             Pekerjaan Kita
           </p>
@@ -403,7 +403,7 @@
             </div>
           </div>
         </div>
-        <div class="d-flex justify-content-center align-items-center pt-5">
+        <div class="d-flex justify-content-center align-items-center py-5">
           <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
@@ -519,13 +519,13 @@
     <div class="header-2-2 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif">
       <div class="container mx-auto">
 
-        <div class="d-flex flex-column text-center w-100" style="margin-bottom: 2.25rem">
+        <div class="d-flex flex-column text-center w-100" >
           <h2 class="title-text">Tentang</h2>
         </div>
 
         <div class="mx-auto d-flex flex-lg-row flex-column hero">
           <!-- Left Column -->
-          <div class="left-column d-flex flex-lg-grow-1 flex-column align-items-lg-start text-lg-start align-items-center text-center my-auto">
+          <div class="left-column d-flex flex-lg-grow-1 flex-column align-items-lg-start text-lg-start align-items-center text-center ">
             <!-- <p class="text-caption">FREE 30 DAY TRIAL</p> -->
             <!-- <h5 class="title-text-big">
               Mari Buat Hidup Anda Lebih Modern Dengan Teknologi Digiponic
@@ -574,105 +574,38 @@
           </p>
           <h2 class="title-text">Tim Inti Kami</h2>
         </div>
-
-        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-                <div class="col">
-                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
-                    <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
-                      <div class="d-flex justify-content-center">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/1.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
-                      </div>
-                      <h2 class="fw-bold caption-text-2 text-center pt-3">Deni Dwi Handoko</h2>
-
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Founder & CEO</h2>
-                    </div>
-                  </div>
+        <div class="row row-cols-1 row-cols-lg-3 align-items-stretch d-flex justify-content-center g-4 py-5">
+          <div class="col">
+            <div class="card card-cover  overflow-hidden text-white  rounded-5">
+              <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
+                <div class="d-flex justify-content-center">
+                  <img src="<?php echo base_url(); ?>assets/image/tim/1.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
                 </div>
+                <h2 class="fw-bold caption-text-2 text-center pt-3">Deni Dwi Handoko</h2>
 
-                <div class="col">
-                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
-                    <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
-                      <div class="d-flex justify-content-center">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="Bootstrap" width="203" height="203" class="rounded-circle">
-                      </div>
-                      <h2 class="fw-bold caption-text-2 text-center pt-3">Bagus Kristomoyo Kristanto</h2>
-
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Co-Founder & CTO</h2>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col">
-                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
-                    <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
-                      <div class="d-flex justify-content-center">
-                        <img src="<?php echo base_url(); ?>assets/image/tim/3.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
-                      </div>
-                      <h2 class="fw-bold caption-text-2 text-center pt-3">Yohanes Dwi Listio</h2>
-
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Backend Developer</h2>
-                    </div>
-                  </div>
-                </div>
+                <h2 class="price-duration text-center pt-3" style="color: #8997b5">Founder & CEO</h2>
               </div>
             </div>
-            <div class="carousel-item">
-              <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-                <div class="col">
-                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
-                    <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
-                      <div class="d-flex justify-content-center">
-                        <img src="<?= base_url(); ?>assets/image/tim/4.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
-                      </div>
-                      <h2 class="fw-bold caption-text-2 text-center pt-3">Bimo Prakoso</h2>
+          </div>
 
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Backend Developer</h2>
-                    </div>
-                  </div>
+          <div class="col">
+            <div class="card card-cover  overflow-hidden text-white  rounded-5">
+              <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
+                <div class="d-flex justify-content-center">
+                  <img src="<?php echo base_url(); ?>assets/image/tim/tim2.svg" alt="Bootstrap" width="203" height="203" class="rounded-circle">
                 </div>
+                <h2 class="fw-bold caption-text-2 text-center pt-3">Bagus Kristomoyo Kristanto</h2>
 
-                <div class="col">
-                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
-                    <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
-                      <div class="d-flex justify-content-center">
-                        <img src="<?= base_url(); ?>assets/image/tim/5.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
-                      </div>
-                      <h2 class="fw-bold caption-text-2 text-center pt-3">Raham Sutan Iliyas</h2>
-
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Frontend Developer</h2>
-                    </div>
-                  </div>
-                </div>
-                <div class="col">
-                  <div class="card card-cover  overflow-hidden text-white  rounded-5">
-                    <div class="d-flex flex-column h-100 p-5 text-white text-shadow-1">
-                      <div class="d-flex justify-content-center">
-                        <img src="<?= base_url(); ?>assets/image/tim/6.png" alt="Bootstrap" width="203" height="203" class="rounded-circle">
-                      </div>
-                      <h2 class="fw-bold caption-text-2 text-center pt-3">Egata Arinda</h2>
-
-                      <h2 class="price-duration text-center pt-3" style="color: #8997b5">Digital Marketing</h2>
-                    </div>
-                  </div>
-                </div>
-
+                <h2 class="price-duration text-center pt-3" style="color: #8997b5">Co-Founder & CTO</h2>
               </div>
             </div>
           </div>
         </div>
-        <div class="d-flex justify-content-center align-items-center pt-5">
-          <div class="btn-group">
-            <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
-            </button>
-            <button type="button" class="carousel-control-next mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-              <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/next.svg"></span>
-            </button>
-          </div>
+
+        <div class="d-flex justify-content-center pb-5">
+          <img src="<?php echo base_url() ?>assets/image/tim/foto_team2.png" class="img-fluid" alt="">
         </div>
+
 
       </div>
     </div>
@@ -878,7 +811,7 @@
           </div>
 
         </div>
-        <div class="d-flex justify-content-center align-items-center pt-5">
+        <div class="d-flex justify-content-center align-items-center py-5">
           <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="next">
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
