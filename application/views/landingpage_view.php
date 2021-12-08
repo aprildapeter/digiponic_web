@@ -847,8 +847,7 @@
                     <div class="d-flex">
                       <img src="<?php echo base_url(); ?>assets/image/hubungi/lokasi.svg" class=" pe-2">
                       <p class="mb-0 small lh-sm price-duration">
-                        Jl. Raya Tidar No.100, Karangbesuki,
-                        Kec. Sukun, Kota Malang, Jawa Timur
+                      Jl. Perusahaan Raya no. 27 Bodosari, Tanjungtirto, Bodosari, Kabupaten, Kec. Singosari, Kabupaten Malang, Jawa Timur 65153
                       </p>
                     </div>
                   </div>
