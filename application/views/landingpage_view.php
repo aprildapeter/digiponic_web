@@ -890,21 +890,21 @@
             <div class="col">
               <div class="HubungiKami p-3">
                 <h4>Hubungi Kami</h4>
-                <form class="row g-3 pt-5">
+                <form action="<?= base_url('Contact/sendEmail') ?>" class="row g-3 pt-5" method="POST">
                   <div class="col-md-6">
-                    <input type="text" class="form-control" id="NamaLengkap" placeholder="Nama Lengkap">
+                    <input type="text" name="name" class="form-control" id="NamaLengkap" placeholder="Nama Lengkap">
                   </div>
                   <div class="col-md-6">
-                    <input type="text" class="form-control" id="Notlpn" placeholder="No. Telp/WA">
+                    <input type="text" name="telp" class="form-control" id="Notlpn" placeholder="No. Telp/WA">
                   </div>
                   <div class="col-12">
-                    <input type="email" class="form-control" id="Email" placeholder="Email">
+                    <input type="email" name="email" class="form-control" id="Email" placeholder="Email">
                   </div>
                   <div class="col-12">
-                    <input type="text" class="form-control" id="Subjek" placeholder="Subjek">
+                    <input type="text" name="subject" class="form-control" id="Subjek" placeholder="Subjek">
                   </div>
                   <div class="col-12">
-                    <textarea class="form-control" id="TextAreaPesan" rows="4" placeholder="Pesan"></textarea>
+                    <textarea class="form-control" name="message" id="TextAreaPesan" rows="4" placeholder="Pesan"></textarea>
                   </div>
                   <div class="col-12 d-flex justify-content-end">
                     <button type="submit" class="btn btn-fill">Kirim</button>
