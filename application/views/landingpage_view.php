@@ -59,9 +59,9 @@
                   <li class="nav-item">
                     <a class="nav-link" href="#tim">Tim Kami</a>
                   </li>
-                  <li class="nav-item">
+                  <!-- <li class="nav-item">
                     <a class="nav-link" href="#testimoni">Testimoni</a>
-                  </li>
+                  </li> -->
                   <li class="nav-item">
                     <a class="nav-link" href="#kontak">Kontak Kami</a>
                   </li>
@@ -89,9 +89,9 @@
             <li class="nav-item">
               <a class="nav-link" href="#tim">Tim Kami</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link" href="#testimoni">Testimoni</a>
-            </li>
+            </li> -->
             <li class="nav-item">
               <a class="nav-link" href="#kontak">Kontak Kami</a>
             </li>
@@ -146,11 +146,11 @@
                   </p>
                 </div>
                 <div class="price-list">
-                  <p class="d-flex align-items-center check">
+                  <p class="d-flex align-items-center check" style="text-align: center;">
                     Website menjadi garda terdepan sebuah perusahaan.
-                    Dengan tenaga ahli yang ada,
-                    kami siap mengambangkan website yang lebih interaktif
-                    dan membantu pengambangan bisnis Anda.
+                    Dengan tenaga ahli yang berpengalaman,
+                    kami siap mengembangkan website yang lebih interaktif
+                    dan siap membantu pengembangan bisnis Anda.
                   </p>
 
                 </div>
@@ -167,10 +167,8 @@
                   </p>
                 </div>
                 <div class="price-list">
-                  <p class="d-flex align-items-center check">
-                    Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                    bisa langsung melakukan penetration test.
-                    Ini merupakan pengalaman baru bagi kami.
+                  <p class="d-flex align-items-center check" style="text-align: center;">
+                    Kami memiliki developer dan desainer yang siap membangun aplikasi Anda. Dengan pengalaman yang ada, kami siap membuat yang sesuai dengan kebutuhan bisnis Anda.
                   </p>
 
                 </div>
@@ -185,14 +183,13 @@
                 <div class="d-flex text-muted pt-3">
                   <img src="<?php echo base_url(); ?>assets/image/software.svg" alt="" width="48px" height="48px" class="p-1">
                   <p class="pb-3 mb-0 small lh-sm price-duration">
-                    <strong class="d-block price-title">Web Development</strong>
+                    <strong class="d-block price-title">Sistem Otomasi</strong>
                   </p>
                 </div>
                 <div class="price-list">
-                  <p class="d-flex align-items-center check">
-                    Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                    bisa langsung melakukan penetration test.
-                    Ini merupakan pengalaman baru bagi kami.
+                  <p class="d-flex align-items-center check" style="text-align: center;">
+                  Kami siap menyediakan sistem otomasi industri yang komprehensif dan sepenuhnya di kustomisasi agar sesuai 
+                  dengan spesifikasi dan persyaratan produksi dari pelanggan, karena tujuan utama adalah memberikan solusi.
                   </p>
 
                 </div>
@@ -203,16 +200,16 @@
             <div class="card mb-4 rounded-3 shadow-sm">
               <div class="card-body">
                 <div class="d-flex text-muted pt-3">
-                  <img src="<?php echo base_url(); ?>assets/image/it.svg" alt="" width="48px" height="48px" class="p-1">
+                  <img src="<?php echo base_url(); ?>assets/image/web.svg" alt="" width="48px" height="48px" class="p-1">
                   <p class="pb-3 mb-0 small lh-sm price-duration">
-                    <strong class="d-block price-title">IT Konsultasi</strong>
+                    <strong class="d-block price-title">Software Development</strong>
                   </p>
                 </div>
                 <div class="price-list">
-                  <p class="d-flex align-items-center check">
-                    Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                    bisa langsung melakukan penetration test.
-                    Ini merupakan pengalaman baru bagi kami.
+                  <p class="d-flex align-items-center check" style="text-align: center;">
+                  Kami akan mengembangkan Sistem Informasi Manajemen 
+                  perusahaan Anda. Pelanggan akan mendapatkan data yang tepat untuk menentukan langkah 
+                  perusahaan kedepannya.
                   </p>
 
                 </div>
@@ -305,10 +302,10 @@
 
   <!-- Portofolio -->
   <section class="h-100 w-100" style="box-sizing: border-box; background-color: #fff" id="portofolio">
-    <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif; ">
+    <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif; margin-bottom: 3rem;">
       <div class="container mx-auto">
 
-        <div class="d-flex flex-column text-center w-100 pt-2" style="margin-bottom: 2.25rem">
+        <div class="d-flex flex-column text-center w-100" style="margin-bottom: 2.25rem">
           <p class="caption-text mx-auto">
             Pekerjaan Kita
           </p>
@@ -328,8 +325,8 @@
                     <div class="back">
                       <div class="back-content middle">
                         <div class="sm">
-                          <a href="https://digiponic.co.id/"><i class="fas fa-globe"></i></a>
-                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          <a href="https://digiponic.co.id/" target="_blank"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/" target="_blank"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
                     </div>
@@ -343,8 +340,8 @@
                     <div class="back">
                       <div class="back-content middle">
                         <div class="sm">
-                          <a href="http://halomeet.halokes.co.id/"><i class="fas fa-globe"></i></a>
-                          <a href="https://www.instagram.com/halokes.id/"><i class="fab fa-instagram"></i></a>
+                          <a href="http://halomeet.halokes.co.id/" target="_blank"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/halokes.id/" target="_blank"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
                     </div>
@@ -358,8 +355,10 @@
                     <div class="back">
                       <div class="back-content middle">
                         <div class="sm">
-                          <a href="http://haloteach.halokes.co.id/"><i class="fas fa-globe"></i></a>
-                          <a href="https://www.instagram.com/haloteach.id/"><i class="fab fa-instagram"></i></a>
+                          <a href="http://haloteach.halokes.co.id/" target="_blank"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/haloteach.id/" target="_blank"><i class="fab fa-instagram"></i></a>
+                          <a href="https://www.youtube.com/channel/UCDltOYVRkrGTftpiUWgY9Hg" target="_blank"><i class="fab fa-youtube"></i></a>
+
                         </div>
                       </div>
                     </div>
@@ -377,8 +376,9 @@
                     <div class="back">
                       <div class="back-content middle">
                         <div class="sm">
-                          <a href="http://nitromax.digiponic.co.id/"><i class="fas fa-globe"></i></a>
-                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          <a href="http://nitromax.digiponic.co.id/" target="_blank"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/" target="_blank"><i class="fab fa-instagram"></i></a>
+                          <a href="https://www.youtube.com/channel/UCaAXpnUyvF97Bj6V4YPK7yA" target="_blank"><i class="fab fa-youtube"></i></a>
                         </div>
                       </div>
                     </div>
@@ -392,8 +392,8 @@
                     <div class="back">
                       <div class="back-content middle">
                         <div class="sm">
-                          <a href="http://dev.digiponic.co.id/osac_sistema/"><i class="fas fa-globe"></i></a>
-                          <a href="https://www.instagram.com/digiponic.co.id/"><i class="fab fa-instagram"></i></a>
+                          <a href="http://dev.digiponic.co.id/osac_sistema/" target="_blank"><i class="fas fa-globe"></i></a>
+                          <a href="https://www.instagram.com/digiponic.co.id/" target="_blank"><i class="fab fa-instagram"></i></a>
                         </div>
                       </div>
                     </div>
@@ -403,7 +403,7 @@
             </div>
           </div>
         </div>
-        <div class="d-flex justify-content-center align-items-center py-5">
+        <div class="d-flex justify-content-center align-items-center pt-5">
           <div class="btn-group">
             <button type="button" class="carousel-control-prev mx-4" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
               <span aria-hidden="true"><img src="<?php echo base_url(); ?>assets/image/prev.svg"></span>
@@ -519,7 +519,7 @@
     <div class="header-2-2 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif">
       <div class="container mx-auto">
 
-        <div class="d-flex flex-column text-center w-100" >
+        <div class="d-flex flex-column text-center w-100">
           <h2 class="title-text">Tentang</h2>
         </div>
 
@@ -614,7 +614,7 @@
 
 
   <!-- Testimoni -->
-  <section class="h-100 w-100" style="box-sizing: border-box; background-color: #fff" id="testimoni">
+  <!-- <section class="h-100 w-100" style="box-sizing: border-box; background-color: #fff" id="testimoni">
     <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif">
       <div class="container mx-auto">
 
@@ -624,50 +624,6 @@
           </p>
           <h2 class="title-text">Customer Service</h2>
         </div>
-
-        <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-            <div class="me-md-3   text-start text-white overflow-hidden">
-            <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                    <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/web.svg" alt="" width="48px" height="48px" class="p-1"> 
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                            <strong class="d-block price-title">Web Development</strong>
-                            Malang
-                        </p>
-                    </div>
-                    <div class="price-list">
-                    <p class="d-flex align-items-center check">
-                    Selain pelayanan dan tenaga ahli profesional, pada pelatihan kali ini peserta
-                    bisa langsung melakukan penetration test. 
-                    Ini merupakan pengalaman baru bagi kami.
-                    </p>
-                
-            </div>
-            </div>
-            </div>
-            <div class=" me-md-3   text-start overflow-hidden">
-            <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden ">
-                        <div class="d-flex text-muted pt-3">
-                        <img src="<?php echo base_url(); ?>assets/image/web.svg" alt="" width="48px" height="48px" class="p-1"> 
-                        <p class="pb-3 mb-0 small lh-sm price-duration">
-                            <strong class="d-block price-title">Web Development</strong>
-                            Malang
-                        </p>
-                    </div>
-                    <div class="price-list">
-                    <p class="d-flex align-items-center check">
-                    Digiponic memberikan gambaran kepada kami tentang apa yang terjadi di lapangan, 
-                    tidak hanya dalam bidang keilmuan saja. Kami juga mendapatkan contoh-contoh
-                    studi kasus yang sudah diimplementasikan tak hanya di instansi pemerintahan tapi juga instansi swasta
-                    </p>
-            </div>
-            </div>
-            </div>
-            </div> -->
-
-
-
-
         <div id="carouselExampleControls1" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -824,7 +780,7 @@
 
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- Testimoni End -->
 
   <!-- Kontak -->
